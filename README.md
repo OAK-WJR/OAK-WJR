@@ -15,8 +15,10 @@ Hi, I'm Jiarui. I build tools that help people read across languages, and I buil
   [frc-autoscout.com](https://frc-autoscout.com/) · [Demo video](https://www.youtube.com/watch?v=xj-HlX_2FPQ) · [YouTube channel](https://www.youtube.com/@frc-autoscout)
 - **FRC Team 114**: programming, CAD and machining. The team won the Autonomous Award at the 2026 FIRST California Northern State Championship.\
   [Team page](https://www.thebluealliance.com/team/114) · [CNC notes](https://github.com/OAK-WJR/LAHS-CNC-team-notes)
-- **EverFrame**: a 6-foot, five-axis metal robotic arm with custom harmonic-reducer joints, designed to be reused across FRC seasons.
-- **MOOON**: a robot that drives on a vertical whiteboard and erases it, on custom PCBs (four versions).
+- **EverFrame**: a 6-foot, five-axis metal robotic arm with custom harmonic-reducer joints, designed to be reused across FRC seasons.\
+  [Code and CAD](https://github.com/OAK-WJR/everframe-robot-arm) · [Demo](https://github.com/OAK-WJR/everframe-robot-arm#demo)
+- **MOOON**: a robot that drives on a vertical whiteboard and erases it, on custom PCBs (four versions).\
+  [Code and boards](https://github.com/OAK-WJR/mooon-whiteboard-robot) · [Demo](https://github.com/OAK-WJR/mooon-whiteboard-robot#demo)
 - **Rocket flight computer**: one four-layer board for an amateur high-power rocket (STM32H743, IMU, barometer, GNSS, pyro and servo channels). A team project; I designed the board architecture. Not built yet.\
   [Code and CAD](https://github.com/OAK-WJR/rocket-flight-computer)
 
