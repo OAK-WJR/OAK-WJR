@@ -2,8 +2,8 @@ Hi, I'm Jiarui. I build tools that help people read across languages, and I buil
 
 ### Reading apps
 
-- **ReadStair**: a free iPhone app for reading real English books. Scan a printed page or open an EPUB, and it underlines only the words you may not know; tap one to see what it means. In beta on TestFlight.\
-  [readstair.com](https://readstair.com/) · [Open your book](https://readstair.com/open) · [Support](https://oak-wjr.github.io/readstair/)
+- **ReadStair**: a free iPhone app for reading real English books. Scan a printed page or open an EPUB, and it underlines only the words you may not know; tap one to see what it means. On the App Store since October 2026; newer features, such as eye tracking, are still in testing.\
+  [App Store](https://apps.apple.com/us/app/readstair/id6816857705) · [readstair.com](https://readstair.com/) · [Open your book](https://readstair.com/open) · [Support](https://oak-wjr.github.io/readstair/)
 - **LLBR**: take a photo of a page in a printed book, and it marks the words you probably don't know. On the App Store since October 2024.\
   [App Store](https://apps.apple.com/us/app/llbr/id6479208008) · [Code](https://github.com/OAK-WJR/LLBR) · [Support](https://oak-wjr.github.io/LLBR/)
 
